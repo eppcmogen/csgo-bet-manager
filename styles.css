@@ -1,0 +1,63 @@
+.bg-csgo1{
+	 /*background-color: #4285F4; */
+	/* background-image: url('http://cdn.cultofmac.com/wp-content/uploads/2016/06/ios-10-wallpaper.jpg'); */
+	max-width: 100%;
+	background-size: 100%, 100%;
+}
+
+h1, h2{
+	display:inline;
+}
+
+.playername{
+	padding-left: 20px;
+	font-weight: bold;
+	color: ##0d47a1;
+}
+
+.teamname{
+	padding-right: 20px;
+	margin: 0;
+	font-weight: bolder;
+}
+
+.bettime{
+	font-weight: normal;
+	font-size: 70%;
+	margin: 0;
+	padding: 0;
+}
+
+.betoverview{
+	padding: 20px;
+}
+
+.roomheader{
+	display:block;
+	padding:5px;
+	background-color: #0275d8;
+	color: white;
+}
+
+.headeraccount{
+	padding: 7px;
+	clear: left;
+	float: right;
+	overflow:hidden;
+	color: #444444;
+
+	-webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+  -khtml-user-select: none;    /* Konqueror */
+  -moz-user-select: none;      /* Firefox */
+  -ms-user-select: none;       /* Internet Explorer/Edge */
+  user-select: none;
+}
+
+.footer{
+	padding: 50px;
+}
+
+.white{
+	color: white;
+}
